@@ -10,7 +10,7 @@ public class Homepage {
 	private WebElement img;
 	
     @FindBy (xpath="//div[text()='Log Out']")
-    private WebElement logout;
+    private WebElement Logoutt;
     
     public Homepage(WebDriver driver)
     {
