@@ -21,10 +21,7 @@ public class Homepage {
     {
     	img.click();
     }
-	   public void clickonimg()
-    {
-    	img.click();
-    }
+	
     public void logout()
     {
     	
